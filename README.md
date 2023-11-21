@@ -40,4 +40,4 @@ Run the code
 ![output](./sgsmatrichighersecondaryschool.png)
 
 ## Result:
-Write your result
+Thus the program executed successfully
